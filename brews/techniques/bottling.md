@@ -29,4 +29,7 @@ This is a subsection describing the bottling procedure in brewing.
     * Ensure the bottle caps, bottle capper, funnel, and siphon have been sanitized
     * Ensure bottling container is sanitized and rinsed
 2. Siphon brew into bottling container. May need to follow all subsequent steps multiple times, since the bottling container may be smaller in volume than the brewing container.
-3. 
+3. For each bottle
+    * Pour the required sugar amount into a bottle with a funnel
+    * Wash the remaining sugar into the bottle with the brew, and fill to one inch from the top of the bottle
+    * Use the capper to seal the bottle
