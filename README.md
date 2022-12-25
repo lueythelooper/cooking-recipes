@@ -5,3 +5,5 @@ This repository is an experimental library of recipes that are being tracked usi
 #### [Breads](breads/README.md)
 
 #### [Brews](brews/README.md)
+
+#### [Drinks](drinks/README.md)
