@@ -7,3 +7,5 @@ This repository is an experimental library of recipes that are being tracked usi
 #### [Brews](brews/README.md)
 
 #### [Drinks](drinks/README.md)
+
+#### [Soups](soups/README.md)
