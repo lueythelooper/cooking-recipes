@@ -40,6 +40,6 @@ This is a template recipe for basic peasant bread.
     * When dough is finished rising, flour hands and flour a clean surface, and make a ball of dough on the surface.
     * Boil water, and place in baking pan in the oven, lowest rack.
     * Move ball of dough to the pizza stone in the oven once it reaches temperature.
-    * Bake for 15 minutes at temperature. Then reduce temp to 375&deg;F, and bake for another 17-20 minutes.
+    * Bake for 15 minutes at temperature. Then reduce temp to 375&deg;F, and bake for another 52 minutes.
 5. Remove bread from oven, let cool, and serve!
  
