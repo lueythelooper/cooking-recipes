@@ -20,11 +20,6 @@
 ## Materials
 
 * One medium soup pot
-* Liquid measuring cup, >= 2 cups
-* Soup spoon
-* Serving ladle
-* Chef's knife
-* Cutting board
 * Mashing tool
 
 ## Instructions
