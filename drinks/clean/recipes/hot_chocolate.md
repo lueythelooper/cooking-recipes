@@ -1,6 +1,6 @@
 ## Hot Chocolate
 
-This is a recipe for quick, easy, refreshing lemonade. From meticulous trial and error, it was determined that fresh lemons provide a much higher variance than needed for consistent quality. Because of this, store-bought lemon juice is worth using when weighing consistency and quality.
+This is a recipe for making frothy, rich hot chocolate
 
 ### Ingredients
 * Whole milk, 2.25 cups
