@@ -9,4 +9,6 @@ Click on the links below to view the recipe categories.
 
 #### [Drinks](drinks/README.md)
 
+#### [Sauce](sauce/README.md)
+
 #### [Soups](soups/README.md)
