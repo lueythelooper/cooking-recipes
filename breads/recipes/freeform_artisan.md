@@ -22,7 +22,7 @@ This is a recipe for artisan bread recommended by my mother in law. She got this
 
 2. Add yeast and salt to the water inside the mixing bowl.
 
-3. Mix in all of the flour at once, kneading is unnecessary. Not sure why, just copying this down bro. Use a wooden spoon for maximum effect. You could use a high capacity food processor, but where is the fun in that? Mixing is complete when everything is uniformly moist.
+3. Mix in all of the flour at once, kneading is unnecessary. Not sure why, just copying this down bro. Use a wooden spoon initially, but recommended to switch to clean hands to get a good feel for when the dough is uniform.
 
 4. Allow the mixture to rise at room temperature until the dough flattens out or collapses under its own weight. Base rising time on step 1. Allowing to rise for longer will not harm the end product.
 
@@ -31,3 +31,13 @@ This is a recipe for artisan bread recommended by my mother in law. She got this
 6. When ready to bake, sprinkle flour on the dough, and cut off a one-pound section for baking (roughly grapefruit size).
 
 7. Make a gluten cloak around the bread, which is just shaping the dough. Sprinkle more flour on the section of dough. Quickly pull the section of dough around itself to the bottom of the piece, forming a tight ball, with a ragged bottom where the folds meet.
+
+8. (Opt) Cover the pizza peel in cornmeal to prevent sticking. Allow the dough to rest for 40 minutes on the pizza peel. You may see varying levels of rising during this period. Do not worry if none occurs, it will rise in the oven.
+
+9. Preheat oven to 450&deg;F, add a baking stone to one shelf, and an empty boiler tray on a separate shelf. Set timer for 20 minutes.
+
+10. A few minutes before the timer finishes, dust the top of the dough ball with flour and slash the top in a criss-cross fashion.
+
+11. After the timer finishes, but before the oven reaches temperature, slide the dough ball onto the pizza stone in the oven, and add a cup of warm water to the boiler tray. Quickly shut the oven.
+
+12. Bake for 30 minutes, or until the outer crust on the bread is browned and firm.
