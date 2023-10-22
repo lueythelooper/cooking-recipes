@@ -1,6 +1,6 @@
 ## Freeform Artisan
 
-This is a recipe for artisan bread recommended by my mother in law on. She got this from an old cookbook. This recipe makes multiple loafs and is easily scalable. Takes a day (mostly fridge time).
+This is a recipe for artisan bread recommended by my mother in law. She got this from an old cookbook. This recipe makes multiple loafs and is easily scalable. Takes a day (mostly fridge time).
 
 ### Ingredients
 
@@ -29,3 +29,5 @@ This is a recipe for artisan bread recommended by my mother in law on. She got t
 5. STORAGE: Best results involve letting dough sit in the fridge overnight, because the cooler dough is easier to handle. Also, there are flavor impacts to letting the dough cool in the fridge.
 
 6. When ready to bake, sprinkle flour on the dough, and cut off a one-pound section for baking (roughly grapefruit size).
+
+7. Make a gluten cloak around the bread, which is just shaping the dough. Sprinkle more flour on the section of dough. Quickly pull the section of dough around itself to the bottom of the piece, forming a tight ball, with a ragged bottom where the folds meet.
