@@ -5,3 +5,5 @@ This sub-catalog is a collections of bread recipes, ordered from simplest to mos
 [Basic Peasant Bread](recipes/peasant.md)
 
 [Focaccia Bread](recipes/focaccia.md)
+
+[Freeform Artisan](recipes/freeform_artisan.md)
