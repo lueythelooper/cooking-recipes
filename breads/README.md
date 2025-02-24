@@ -7,3 +7,5 @@ This sub-catalog is a collections of bread recipes, ordered from simplest to mos
 [Focaccia Bread](recipes/focaccia.md)
 
 [Freeform Artisan](recipes/freeform_artisan.md)
+
+[Sourdough](recipes/sourdough.md)
