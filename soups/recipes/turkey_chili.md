@@ -2,23 +2,28 @@
 
 ## Ingredients
 
-* Green Bell Peppers, 2
-* Red Bell Peppers, 1
-* Jalapeno Peppers, 2
-* Spanish onion, 1 average size
-* Chipotle Peppers and Adobo Sauce, 1 can
-* Dark Red Kidney Beans, 3 cans
-* Pinto Beans, 1 can
-* Black Beans, 1 can
-* Light Red Kidney Beans, 1 can
-* Tomato Sauce, 2 28oz cans
-* Crushed Tomato, 1 28oz can
-* Campell's Tomato Juice, 1 bottle
-* Chili Seasoning, 1 McCormick Bottle
-* Garlic Powder, About 3/4 of the amount of chili seasoning
-* Smoked Paprika, About 1/2 of the amount of garic powder
-* Ground Turkey, 3 lb
+- Produce/Peppers
+    - *2* Green Bell Peppers
+    - *1* Red Bell Pepper
+    - *2* Jalapeno Peppers
+    - *1 can* Chipotle Peppers and Adobo Sauce
+    - *1* average size spanish or cooking onion
+- Beans
+    - *3 15.5oz cans* of dark red kidney beans
+    - *1 can* pinto beans
+    - *1 can* black beans
+    - *1 can* Light Red Kidney Beans
+- Liquids
+    - *2 28oz cans* tomato sauce
+    - *1 28oz can* Crushed tomato
+    - *1 bottle* Campell's tomato juice
 
+- Seasonings (more precise quantities to come)
+    - *1 McCormick Bottle* Chili Seasoning
+    - *3/4 amount of chili seasoning* worth of garlic powder
+    - *1/2 amount of garlic powder* worth of smoked paprika
+- Meats
+    - *3 lb* Ground Turkey
 
 ## Materials
 
