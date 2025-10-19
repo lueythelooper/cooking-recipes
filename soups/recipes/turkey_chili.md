@@ -19,9 +19,9 @@
     - *1 bottle* Campell's tomato juice
 
 - Seasonings (more precise quantities to come)
-    - *1 McCormick Bottle* Chili Seasoning
-    - *3/4 amount of chili seasoning* worth of garlic powder
-    - *1/2 amount of garlic powder* worth of smoked paprika
+    - *70g* Chili Seasoning
+    - *35g* amount of chili seasoning* worth of garlic powder
+    - *15g* amount of garlic powder* worth of smoked paprika
 - Meats
     - *3 lb* Ground Turkey
 
