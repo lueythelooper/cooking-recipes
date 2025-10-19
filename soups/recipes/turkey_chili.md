@@ -2,7 +2,7 @@
 
 Medium spice chili with beans, peppers, and ground turkey
 
-*chili*
+*dinner, large batch*
 
 **20 servings**
 
